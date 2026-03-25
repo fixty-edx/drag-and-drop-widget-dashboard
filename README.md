@@ -544,5 +544,5 @@ MIT © 2026 InsightForge
 ---
 
 <div align="center">
-  Built with ❤️ using React, Express, MongoDB & Google Gemini AI
+  Built with ❤️ using React, Express, MongoDB
 </div>
